@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Who Am I</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    .info {
+      font-size: 18px;
+      color: #333;
+      margin: 10px 0;
+    }
+
+    body {
+      background-color: #f4f4f9;
+      font-family: Arial, sans-serif;
+      padding: 40px;
+    }
+
+    .container {
+      background: white;
+      border-radius: 10px;
+      padding: 30px;
+      max-width: 600px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 style="color: #6a1b9a;">Who Am I</h1>
+    <p class="info"><strong>Full Name:</strong> Nur Syuhada binti Mohamad Zamri</p>
+    <p class="info"><strong>Age:</strong> 22</p>
+    <p class="info"><strong>Educational Background:</strong> Bachelor of New Media Communication, Universiti Malaysia Perlis</p>
+  </div>
+</body>
+</html>
